@@ -1,52 +1,14 @@
-<h1 align="center"> Portfolio </h1>
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+# 🤖 Profile 🤖
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+🌐 **Perfil Interativo com HTML, CSS & JavaScript** 💻🎨✨
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+Agora, imagine um perfil digital que não só impressiona pela estética, mas também ganha vida com interatividade! 🤩 O HTML constrói a base, exibindo suas informações 📄, enquanto o CSS dá aquele toque mágico de estilo 🎨 — cores, fontes, animações suaves e design responsivo para qualquer dispositivo 📱💻. Mas é o JavaScript 🧠 que traz a verdadeira ação! Com ele, seu perfil se torna dinâmico: botões animados, menus interativos, efeitos de rolagem e até elementos que reagem ao toque do usuário. 🖱️💥
 
-<br>
+O resultado? Uma experiência visual cativante e interativa, onde cada detalhe reflete sua personalidade e habilidades! 🚀
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
 
-## 🚀 Tecnologias
+## Autor
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [@Consoni](https://www.github.com/Consoni21)
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
-
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://Consoni21.github.io/Portfolio)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
